@@ -16,6 +16,7 @@ namespace BlazorQuery
             _jsRuntime = jsRuntime;
             this.currentSelector = currentSelector;
             ret = blazorQueryDOM;
+            //test
         }
     }
 }
